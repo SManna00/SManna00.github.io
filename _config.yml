@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "1^{st} year Ph.D student in ECE at UW Madison specializing in Power Electronics"
+  bio    : "1<sup>st</sup>year Ph.D student in ECE at UW Madison specializing in Power Electronics"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
